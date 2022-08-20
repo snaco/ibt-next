@@ -86,11 +86,11 @@ player-auto-save:
   rate: -1
 proxies:
   bungee-cord:
-    online-mode: false
+    online-mode: true
   proxy-protocol: false
   velocity:
     enabled: true
-    online-mode: false
+    online-mode: true
     secret: sYRqFZAXFlTG
 scoreboards:
   save-empty-scoreboard-teams: false
